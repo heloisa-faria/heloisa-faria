@@ -1,9 +1,9 @@
 &#10047; OLÁ TUDO BEM, BEM VINDO AO MEU PERFIL &#10047;
 
  <div>
-   <a href="https://github.com/devemdobro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/heloisa-faria">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=heloisa-faria&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisa-faria&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
