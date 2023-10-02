@@ -1,5 +1,5 @@
 &#10047; OLÁ TUDO BEM, BEM VINDO AO MEU PERFIL &#10047;
- ESTOU APRENDENDO!
+ n/ESTOU APRENDENDO! &#10047;
  <div>
    <a href="https://github.com/heloisa-faria">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heloisa-faria&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
