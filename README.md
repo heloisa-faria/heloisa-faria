@@ -1,4 +1,4 @@
-&#10047; OLÁ TUDO BEM, BEM VINDO AO MEU PERFIL &#10047;  
+&#10047; &#10047;  
 <br> &#10047; ESTOU APRENDENDO! &#10047;
  <div>
    <a href="https://github.com/heloisa-faria">
