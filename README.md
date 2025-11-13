@@ -1,5 +1,5 @@
  
-<br> &#10047; ESTOU APRENDENDO! &#10047;
+<br> &#10047; APRENDENDO! &#10047;
 <div>
    <a href="https://github.com/heloisa-faria">
    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heloisa-faria&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
@@ -12,6 +12,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-&#10047; &#10047; 
+<br> &#10047; &#10047; 
  
 
