@@ -2,8 +2,8 @@
 <br> &#10047; APRENDENDO! &#10047;
 <div>
    <a href="https://github.com/heloisa-faria">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heloisa-faria&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisa-faria&layout=compact&langs_count=6&theme=rose"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heloisa-faria&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisa-faria&layout=compact&langs_count=6&theme=date_night"/>
 </div>
 
 <!--
