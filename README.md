@@ -2,7 +2,7 @@
 <br> &#10047; ESTOU APRENDENDO! &#10047;
 <div>
    <a href="https://github.com/heloisa-faria">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?heloisa-faria=anuraghazra&theme=dark&show_icons=true"/>
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=heloisa-faria&theme=dark&show_icons=true"/>
    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloisa-faria&layout=compact&langs_count=6&theme=panda"/>
 </div>
     
