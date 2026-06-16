@@ -1,5 +1,5 @@
  
-<br> &#10047; APRENDENDO! 
+<br> &#10047; 
 <!--
 <div>
    <a href="https://github.com/heloisa-faria">
